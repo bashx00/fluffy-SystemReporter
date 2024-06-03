@@ -5,7 +5,7 @@ Le script PowerShell conçu pour collecter des informations système telles que 
 
 1. Téléchargez le fichier `fluffy-SystemReport.ps1` et sauvegardez-le dans un répertoire de votre choix.
 
-2. Ouvrez PowerShell en tant qu'administrateur.
+2. Ouvrez PowerShell en tant qu'administrateurice.
 
 3. Accédez au répertoire où se trouve le script `fluffy-SystemReport.ps1`.
 
